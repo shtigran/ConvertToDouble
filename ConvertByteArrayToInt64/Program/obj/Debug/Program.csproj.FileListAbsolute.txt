@@ -1,0 +1,11 @@
+c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\bin\Debug\Program.exe.config
+c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\bin\Debug\Program.exe
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\bin\Debug\Program.pdb
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\bin\Debug\ConvertByteArrayToInt64.dll
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\bin\Debug\ConvertByteArrayToInt64.pdb
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\obj\Debug\Program.exe
+C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\Program\obj\Debug\Program.pdb
+C:\Users\User\Source\Repos\ConvertToDouble\ConvertByteArrayToInt64\Program\bin\Debug\Program.exe.config
+C:\Users\User\Source\Repos\ConvertToDouble\ConvertByteArrayToInt64\Program\obj\Debug\Program.exe
+C:\Users\User\Source\Repos\ConvertToDouble\ConvertByteArrayToInt64\Program\obj\Debug\Program.pdb
