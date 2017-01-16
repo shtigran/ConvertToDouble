@@ -1,5 +1,0 @@
-c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\obj\Debug\ConvertByteArrayToInt64.csprojResolveAssemblyReference.cache
-c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\bin\Debug\ConvertByteArrayToInt64.dll
-c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\bin\Debug\ConvertByteArrayToInt64.pdb
-c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\obj\Debug\ConvertByteArrayToInt64.dll
-c:\users\user\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\obj\Debug\ConvertByteArrayToInt64.pdb

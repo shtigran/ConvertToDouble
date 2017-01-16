@@ -1,4 +1,0 @@
-C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\bin\Debug\ConvertByteArrayToInt64.dll
-C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\bin\Debug\ConvertByteArrayToInt64.pdb
-C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\obj\Debug\ConvertByteArrayToInt64.dll
-C:\Users\User\Desktop\C++ samouchitel video_youtube\C# решение задач\ConvertByteArrayToInt64\ConvertByteArrayToInt64\obj\Debug\ConvertByteArrayToInt64.pdb
