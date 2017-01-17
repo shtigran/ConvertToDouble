@@ -1,5 +1,5 @@
 # Converter MyBitToInt64
-# C#6  .NET4.6
+# C#6.0  .NET Framework 4.6
 
 This function allow You convert byte array to double
 
